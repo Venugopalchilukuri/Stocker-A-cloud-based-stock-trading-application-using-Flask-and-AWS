@@ -14,7 +14,7 @@ app.secret_key = "stocker_secret_2024"
 AWS_REGION = "us-east-1"
 
 # Use IAM Role attached to EC2
-session_aws = boto3.Session(region_name=AWS_REGION)
+session_aws = boto3.Session(region_name=us-east-1)
 
 # DynamoDB
 dynamodb = session_aws.resource('dynamodb')
