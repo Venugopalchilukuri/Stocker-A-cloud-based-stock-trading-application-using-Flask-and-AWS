@@ -43,3 +43,6 @@ Through this project, I implemented several key features including:
 Building this project helped me understand how backend development, cloud services, and database systems work together to create scalable web applications. It also gave me hands-on experience with deploying applications on AWS and integrating multiple cloud services into a single system.
 
 Overall, Stocker demonstrates how a basic stock trading platform can be designed using Flask for backend development and AWS for cloud infrastructure, making it a useful learning project for understanding cloud-native application development.
+
+
+⭐ If you like this project, consider starring the repository on GitHub.
